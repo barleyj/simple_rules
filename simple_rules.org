@@ -1,0 +1,6 @@
+* Types of Rules
+** Decision Rules
+*** Boundary Rules
+*** Priority Rules
+*** Stopping Rules
+** Process Rules
