@@ -1,6 +1,17 @@
 * Types of Rules
 ** Decision Rules
+These rules help to make yes/no decisions.
 *** Boundary Rules
 *** Priority Rules
 *** Stopping Rules
 ** Process Rules
+*** Howto Rules
+*** Coordination Rules
+*** Timing Rules
+* Creating Rules
+** What moves the needles
+** Identify the bottlenecks
+** Design the rules
+** Who
+** What
+** How
